@@ -1,10 +1,10 @@
 # Projects Status
-  
+<br/><br/>  
     
     
 ## Completed Projects 
     
-    
+<br/>    
   
 ### 1. Autacc Report
 
@@ -13,7 +13,7 @@ The hardware will record the video, location of the incident and the time and da
   
 **Recording Video**: Raspberry Pi and Pi Cam  
 **Application**: Android Studio  
-**Programming Languages**: Python for Raspberry Pi application, Java for Android application. 
+**Programming Languages**: Python for Raspberry Pi application, Java for Android application<br/> 
 
 ### 2. Jelly Pal Android Application
 
@@ -35,49 +35,48 @@ You can also schedule reminders so that the Jelly Pal will remind you when to ta
 
 A dungeon crawler RPG with spells, monsters, fast-paced combat, and treasure hunting elements. Choose your class and prepare for adventure
 
-**Target Platform**: Windows7 or Higher. 
-**Development Tool**: Unity.  
-**Important Assets**: uMMORPG Realistic Effects Pack 4, Heroic Fantasy Creatures Pack Vol 1. 
+**Target Platform**: Windows7 or Higher<br/>
+**Development Tool**: Unity<br/>
+**Important Assets**: uMMORPG Realistic Effects Pack 4, Heroic Fantasy Creatures Pack Vol 1<br/>
+<br/>
 
 ### 4. DAlChemistry AR 
 
 This is a simple AR android application that can generate a molecular 3D model from image.
 user can check the molecular 3D models from target images or inputs, and can view its animation.
 
-**Target**: Dalhousie University Chemistry Students 
-**Target Platform**: Android SDK 26, Min SDK 23 
-**Development Tool**: Unity 
-**Important API**: Wikitude AR 
+**Target**: Dalhousie University Chemistry Students<br/>
+**Target Platform**: Android SDK 26, Min SDK 23<br/>
+**Development Tool**: Unity<br/>
+**Important API**: Wikitude AR<br/><br/>
 
 ### 5. ButaRamen Wage Calculator for Android
 
-This is simple wage calculator for a specific restraunt
-User can calculate all employees' wages and tips and store all results and data into Mysql database or Firebase. 
-
-**Target Platform**: Android SDK 26, Min SDK 26
-**Development Tool**: Android Studio
-**Progress**: 70% done (Initial version of UIs and activities, Calculator functions, Communication between app and Firebase has been completed)
-
-*Currently stopped due to the changing target platforms 
+This is simple wage calculator for a specific restraunt<br/>
+User can calculate all employees' wages and tips and store all results and data into Mysql database or Firebase<br/>
+<br/>
+**Target Platform**: Android SDK 26, Min SDK 26<br/>
+**Development Tool**: Android Studio<br/>
+**Progress**: 70% done (Initial version of UIs and activities, Calculator functions, Communication between app and Firebase has been completed)<br/>
+*Currently stopped due to the changing target platforms<br/><br/>
 
 ## Projects in Progress
-
+<br/>
 ### 1. Cat in the Zoo Game
-Simple mobie adventure game. Player should control a cat to get more food in the zoo.
+Simple mobie adventure game. Player should control a cat to get more food in the zoo<br/>
 
-**Target Platform**: Android or IOS.  
-**Development Tool**: Unity.  
-**Progress**: 10% done (Player controller, added animations for idle, run, walk, jump, and attack are completed)
-
+**Target Platform**: Android or IOS<br/>
+**Development Tool**: Unity<br/>
+**Progress**: 10% done (Player controller, added animations for idle, run, walk, jump, and attack are completed)<br/><br/>
 
 ### 2. Buta Calculator Unity
-This is a simple calculator for calculating all employees' wages and tips.
-Due to the request of a restraunts' owner, modified all codes for multiple branches in Atlantic Area
-Target platform is also changed to multiplatform such as OSX, IOS, and Android.
+<br/>
+This is a simple calculator for calculating all employees' wages and tips<br/>
+Due to the request of a restraunts' owner, modified all codes for multiple branches in Atlantic Area<br/>
+Target platform is also changed to multiplatform such as OSX, IOS, and Android<br/><br/>
 
-**Target Platform**: Windows, OSX, Android, and IOS.
-**Development Tool**: Unity
-**Important Asset**: REST API for Unity
-**Using Database**: Firebase
-**Progress**: 50% done (Communication between application and Firebase, all initial version of UI)
-
+**Target Platform**: Windows, OSX, Android, and IOS<br/>
+**Development Tool**: Unity<br/>
+**Important Asset**: REST API for Unity<br/>
+**Using Database**: Firebase<br/>
+**Progress**: 50% done (Communication between application and Firebase, all initial version of UI)<br/>

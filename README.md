@@ -65,7 +65,7 @@ User can calculate all employees' wages and tips and store all results and data 
 ### 1. Cat in the Zoo Game
 Simple mobie adventure game. Player should control a cat to get more food in the zoo.
 
-**Target Platform**: Android or IOS
+**Target Platform**: Android or IOS.  
 **Development Tool**: Unity
 **Progress**: 10% done (Player controller, added animations for idle, run, walk, jump, and attack are completed)
 

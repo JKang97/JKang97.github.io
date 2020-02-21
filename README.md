@@ -1,5 +1,7 @@
 # Projects Status
+
 ## Completed Projects 
+
 ### 1. Autacc Report
 This app lets you retrieve the incident that was recorded by the collision hardware and add more information about the incident. 
 The hardware will record the video, location of the incident and the time and date of the incident.

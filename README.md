@@ -1,11 +1,13 @@
 # Projects Status
   
-  
-
+    
+    
 ## Completed Projects 
-  
+    
+    
   
 ### 1. Autacc Report
+
 This app lets you retrieve the incident that was recorded by the collision hardware and add more information about the incident.
 The hardware will record the video, location of the incident and the time and date of the incident.
   
@@ -14,37 +16,38 @@ The hardware will record the video, location of the incident and the time and da
 **Programming Languages**: Python for Raspberry Pi application, Java for Android application. 
 
 ### 2. Jelly Pal Android Application
-Jelly Pal is an interactive friend who lives in your phone and helps manage your mental health. 
-You can talk to your Jelly Pal and feed it, just like a real pet. 
-Jelly Pal even has two games, a rhythm game to distract you and a breathing game to help deal with panic attacks. 
-You can also schedule reminders so that the Jelly Pal will remind you when to take your medication. 
+
+Jelly Pal is an interactive friend who lives in your phone and helps manage your mental health 
+You can talk to your Jelly Pal and feed it, just like a real pet 
+Jelly Pal even has two games, a rhythm game to distract you and a breathing game to help deal with panic attacks 
+You can also schedule reminders so that the Jelly Pal will remind you when to take your medication 
 
 **Feature Section**
 
-* **Rhythm Game** - To help the player deal with anxiety our rhythm game distracts the player by having them focus on tapping on small stars at very precise moments.
-* **Microphone Game** - To help the player deal with panic attacks our microphone game visually rewards the player for blowing into the microphone in such a way that has been studied to help with releaving panic attacks.
-* **Medication Scheduling** - To help remind the player to take their medications at the correct times their is a scheduling system so the player can set what medication, and what times/dates they need to take said medication. Notifications are sent when the player needs to take said medication.
-* **Dialog System** - To give the player "someone" to talk to we implemented a chat tree style dialog system so that the player can "talk" to the jelly.
-* **Environment Effects** - The background of the jelly changes dependent on time and weather of the location of the player.
+* **Rhythm Game** - To help the player deal with anxiety our rhythm game distracts the player by having them focus on tapping on small stars at very precise moments
+* **Microphone Game** - To help the player deal with panic attacks our microphone game visually rewards the player for blowing into the microphone in such a way that has been studied to help with releaving panic attacks
+* **Medication Scheduling** - To help remind the player to take their medications at the correct times their is a scheduling system so the player can set what medication, and what times/dates they need to take said medication. Notifications are sent when the player needs to take said medication
+* **Dialog System** - To give the player "someone" to talk to we implemented a chat tree style dialog system so that the player can "talk" to the jelly
+* **Environment Effects** - The background of the jelly changes dependent on time and weather of the location of the player
 
 
 ### 3. Belphegor RPG Game
 
-A dungeon crawler RPG with spells, monsters, fast-paced combat, and treasure hunting elements. Choose your class and prepare for adventure.
+A dungeon crawler RPG with spells, monsters, fast-paced combat, and treasure hunting elements. Choose your class and prepare for adventure
 
-**Target Platform**: Windows7 or Higher
-**Development Tool**: Unity
-**Important Assets**: uMMORPG Realistic Effects Pack 4, Heroic Fantasy Creatures Pack Vol 1
+**Target Platform**: Windows7 or Higher 
+**Development Tool**: Unity 
+**Important Assets**: uMMORPG Realistic Effects Pack 4, Heroic Fantasy Creatures Pack Vol 1 
 
 ### 4. DAlChemistry AR 
 
 This is a simple AR android application that can generate a molecular 3D model from image.
 user can check the molecular 3D models from target images or inputs, and can view its animation.
 
-**Target**: Dalhousie University Chemistry Students
-**Target Platform**: Android SDK 26, Min SDK 23
-**Development Tool**: Unity
-**Important API**: Wikitude AR
+**Target**: Dalhousie University Chemistry Students 
+**Target Platform**: Android SDK 26, Min SDK 23 
+**Development Tool**: Unity 
+**Important API**: Wikitude AR 
 
 ### 5. ButaRamen Wage Calculator for Android
 

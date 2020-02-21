@@ -47,6 +47,8 @@ A dungeon crawler RPG with spells, monsters, fast-paced combat, and treasure hun
 
 ### 4. DAlChemistry AR 
 
+![](Image/DalAR/DalChemi.png "Image Recognition App")
+
 This is a simple AR android application that can generate a molecular 3D model from image.
 user can check the molecular 3D models from target images or inputs, and can view its animation.
 
@@ -56,6 +58,8 @@ user can check the molecular 3D models from target images or inputs, and can vie
 **Important API**: Wikitude AR<br/>
 
 ### 5. ButaRamen Wage Calculator for Android
+
+![](Image/ButaAndroid/ButaAn1.png "Android App for Wage Calculator")
 
 This is simple wage calculator for a specific restraunt<br/>
 User can calculate all employees' wages and tips and store all results and data into Mysql database or Firebase<br/>
@@ -69,6 +73,9 @@ User can calculate all employees' wages and tips and store all results and data 
 ## Projects in Progress
 
 ### 1. Cat in the Zoo Game
+
+![](Image/CatIntheZoo/Cat1.png "Cat in the Zoo Game")
+
 Simple mobie adventure game. Player should control a cat to get more food in the zoo<br/>
 
 **Target Platform**: Android or IOS<br/>
@@ -76,6 +83,8 @@ Simple mobie adventure game. Player should control a cat to get more food in the
 **Progress**: 10% done (Player controller, added animations for idle, run, walk, jump, and attack are completed)<br/>
 
 ### 2. Buta Calculator Unity
+
+![](Image/ButaUnity/ButaUnity1.png "Wage Calculator by Unity")
 
 This is a simple calculator for calculating all employees' wages and tips<br/>
 Due to the request of a restraunts' owner, modified all codes for multiple branches in Atlantic Area<br/>

@@ -59,7 +59,7 @@ user can check the molecular 3D models from target images or inputs, and can vie
 
 ### 5. ButaRamen Wage Calculator for Android
 
-![](Image/ButaAndroid/ButaAn1.png | width=100)
+<img src="Image/ButaAndroid/ButaAn1.png" width="200">
 
 This is simple wage calculator for a specific restraunt<br/>
 User can calculate all employees' wages and tips and store all results and data into Mysql database or Firebase<br/>

@@ -70,10 +70,10 @@ Simple mobie adventure game. Player should control a cat to get more food in the
 **Progress**: 10% done (Player controller, added animations for idle, run, walk, jump, and attack are completed)<br/>
 
 ### 2. Buta Calculator Unity
-<br/>
+
 This is a simple calculator for calculating all employees' wages and tips<br/>
 Due to the request of a restraunts' owner, modified all codes for multiple branches in Atlantic Area<br/>
-Target platform is also changed to multiplatform such as OSX, IOS, and Android<br/>
+Target platform is also changed to multiplatform such as OSX, IOS, and Android<br/><br/>
 
 **Target Platform**: Windows, OSX, Android, and IOS<br/>
 **Development Tool**: Unity<br/>

@@ -8,7 +8,7 @@
   
 ### 1. Autacc Report
 
-<p align="center">![](Image/Autacc/Autacc.png "Autacc Car Blackbox")</p>
+![](Image/Autacc/Autacc.png "Autacc Car Blackbox")
 
 This app lets you retrieve the incident that was recorded by the collision hardware and add more information about the incident.
 The hardware will record the video, location of the incident and the time and date of the incident.
@@ -19,7 +19,7 @@ The hardware will record the video, location of the incident and the time and da
 
 ### 2. Jelly Pal Android Application
 
-![](Image/JellyPal/main_menu.png "The home screen of the Jelly Pal app")
+<p align="center"><img src="JellyPal/main_menu.png"></P>
 
 Jelly Pal is an interactive friend who lives in your phone and helps manage your mental health 
 You can talk to your Jelly Pal and feed it, just like a real pet 
@@ -47,7 +47,7 @@ A dungeon crawler RPG with spells, monsters, fast-paced combat, and treasure hun
 
 ### 4. DAlChemistry AR 
 
-![](Image/DalAR/DalChemi.png "Image Recognition App")
+<p align="center"><img src="Image/DalAR/DalChemi.png" height="400"></p>
 
 This is a simple AR android application that can generate a molecular 3D model from image.
 user can check the molecular 3D models from target images or inputs, and can view its animation.

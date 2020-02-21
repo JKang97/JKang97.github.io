@@ -8,7 +8,7 @@
   
 ### 1. Autacc Report
 
-![](Image/Autacc/Autacc.png "Autacc Car Blackbox")
+<p align="center">![](Image/Autacc/Autacc.png "Autacc Car Blackbox")</p>
 
 This app lets you retrieve the incident that was recorded by the collision hardware and add more information about the incident.
 The hardware will record the video, location of the incident and the time and date of the incident.

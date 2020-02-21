@@ -37,7 +37,6 @@ A dungeon crawler RPG with spells, monsters, fast-paced combat, and treasure hun
 
 **Target Platform**: Windows7 or Higher. 
   
-  
 **Development Tool**: Unity.  
 **Important Assets**: uMMORPG Realistic Effects Pack 4, Heroic Fantasy Creatures Pack Vol 1. 
 

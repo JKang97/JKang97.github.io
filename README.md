@@ -15,7 +15,7 @@ The hardware will record the video, location of the incident and the time and da
   
 **Recording Video**: Raspberry Pi and Pi Cam  
 **Application**: Android Studio  
-**Programming Languages**: Python for Raspberry Pi application, Java for Android application<br/> 
+**Programming Languages**: Python for Raspberry Pi application, Java for Android application<br/><br/>  
 
 ### 2. Jelly Pal Android Application
 
@@ -32,7 +32,7 @@ You can also schedule reminders so that the Jelly Pal will remind you when to ta
 * **Microphone Game** - To help the player deal with panic attacks our microphone game visually rewards the player for blowing into the microphone in such a way that has been studied to help with releaving panic attacks
 * **Medication Scheduling** - To help remind the player to take their medications at the correct times their is a scheduling system so the player can set what medication, and what times/dates they need to take said medication. Notifications are sent when the player needs to take said medication
 * **Dialog System** - To give the player "someone" to talk to we implemented a chat tree style dialog system so that the player can "talk" to the jelly
-* **Environment Effects** - The background of the jelly changes dependent on time and weather of the location of the player
+* **Environment Effects** - The background of the jelly changes dependent on time and weather of the location of the player<br/> 
 
 
 ### 3. Belphegor RPG Game
@@ -43,7 +43,7 @@ A dungeon crawler RPG with spells, monsters, fast-paced combat, and treasure hun
 
 **Target Platform**: Windows7 or Higher<br/>
 **Development Tool**: Unity<br/>
-**Important Assets**: uMMORPG Realistic Effects Pack 4, Heroic Fantasy Creatures Pack Vol 1<br/>
+**Important Assets**: uMMORPG Realistic Effects Pack 4, Heroic Fantasy Creatures Pack Vol 1<br/><br/> 
 
 ### 4. DAlChemistry AR 
 
@@ -55,7 +55,7 @@ user can check the molecular 3D models from target images or inputs, and can vie
 **Target**: Dalhousie University Chemistry Students<br/>
 **Target Platform**: Android SDK 26, Min SDK 23<br/>
 **Development Tool**: Unity<br/>
-**Important API**: Wikitude AR<br/>
+**Important API**: Wikitude AR<br/><br/> 
 
 ### 5. ButaRamen Wage Calculator for Android
 
@@ -68,7 +68,7 @@ User can calculate all employees' wages and tips and store all results and data 
 **Development Tool**: Android Studio<br/>
 **Progress**: 70% done (Initial version of UIs and activities, Calculator functions, Communication between app and Firebase has been completed)<br/>
 
-*Currently stopped due to the changing target platforms*<br/><br/><br/>
+*Currently stopped due to the changing target platforms*<br/><br/><br/><br/> 
 
 ## Projects in Progress
 
@@ -80,7 +80,7 @@ Simple mobie adventure game. Player should control a cat to get more food in the
 
 **Target Platform**: Android or IOS<br/>
 **Development Tool**: Unity<br/>
-**Progress**: 10% done (Player controller, added animations for idle, run, walk, jump, and attack are completed)<br/>
+**Progress**: 10% done (Player controller, added animations for idle, run, walk, jump, and attack are completed)<br/><br/> 
 
 ### 2. Buta Calculator Unity
 

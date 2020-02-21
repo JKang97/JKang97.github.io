@@ -32,7 +32,7 @@ You can also schedule reminders so that the Jelly Pal will remind you when to ta
 * **Microphone Game** - To help the player deal with panic attacks our microphone game visually rewards the player for blowing into the microphone in such a way that has been studied to help with releaving panic attacks
 * **Medication Scheduling** - To help remind the player to take their medications at the correct times their is a scheduling system so the player can set what medication, and what times/dates they need to take said medication. Notifications are sent when the player needs to take said medication
 * **Dialog System** - To give the player "someone" to talk to we implemented a chat tree style dialog system so that the player can "talk" to the jelly
-* **Environment Effects** - The background of the jelly changes dependent on time and weather of the location of the player<br/> 
+* **Environment Effects** - The background of the jelly changes dependent on time and weather of the location of the player<br/><br/>  
 
 
 ### 3. Belphegor RPG Game

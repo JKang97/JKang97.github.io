@@ -58,10 +58,12 @@ User can calculate all employees' wages and tips and store all results and data 
 **Target Platform**: Android SDK 26, Min SDK 26<br/>
 **Development Tool**: Android Studio<br/>
 **Progress**: 70% done (Initial version of UIs and activities, Calculator functions, Communication between app and Firebase has been completed)<br/>
+
 *Currently stopped due to the changing target platforms<br/><br/>
 
 ## Projects in Progress
 <br/>
+
 ### 1. Cat in the Zoo Game
 Simple mobie adventure game. Player should control a cat to get more food in the zoo<br/>
 

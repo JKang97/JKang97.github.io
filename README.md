@@ -9,8 +9,8 @@
 This app lets you retrieve the incident that was recorded by the collision hardware and add more information about the incident.
 The hardware will record the video, location of the incident and the time and date of the incident.
   
-Recording Video: Raspberry Pi and Pi Cam. 
-Application: Android Studio. 
+Recording Video: Raspberry Pi and Pi Cam  
+Application: Android Studio  
 Programming Languages: Python for Raspberry Pi application, Java for Android application. 
 
 ### 2. Jelly Pal Android Application

@@ -8,7 +8,7 @@
   
 ### 1. Autacc Report
 
-![](Image/Autacc/Autacc.png "The home screen of the Jelly Pal app")
+![](Image/Autacc/Autacc.png "Autacc Car Blackbox")
 
 This app lets you retrieve the incident that was recorded by the collision hardware and add more information about the incident.
 The hardware will record the video, location of the incident and the time and date of the incident.
@@ -18,6 +18,8 @@ The hardware will record the video, location of the incident and the time and da
 **Programming Languages**: Python for Raspberry Pi application, Java for Android application<br/> 
 
 ### 2. Jelly Pal Android Application
+
+![](Image/JellyPal/main_menu.png "The home screen of the Jelly Pal app")
 
 Jelly Pal is an interactive friend who lives in your phone and helps manage your mental health 
 You can talk to your Jelly Pal and feed it, just like a real pet 

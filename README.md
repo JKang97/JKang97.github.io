@@ -36,6 +36,8 @@ You can also schedule reminders so that the Jelly Pal will remind you when to ta
 A dungeon crawler RPG with spells, monsters, fast-paced combat, and treasure hunting elements. Choose your class and prepare for adventure
 
 **Target Platform**: Windows7 or Higher. 
+  
+  
 **Development Tool**: Unity.  
 **Important Assets**: uMMORPG Realistic Effects Pack 4, Heroic Fantasy Creatures Pack Vol 1. 
 

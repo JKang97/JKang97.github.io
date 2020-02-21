@@ -38,7 +38,6 @@ A dungeon crawler RPG with spells, monsters, fast-paced combat, and treasure hun
 **Target Platform**: Windows7 or Higher<br/>
 **Development Tool**: Unity<br/>
 **Important Assets**: uMMORPG Realistic Effects Pack 4, Heroic Fantasy Creatures Pack Vol 1<br/>
-<br/>
 
 ### 4. DAlChemistry AR 
 
@@ -48,7 +47,7 @@ user can check the molecular 3D models from target images or inputs, and can vie
 **Target**: Dalhousie University Chemistry Students<br/>
 **Target Platform**: Android SDK 26, Min SDK 23<br/>
 **Development Tool**: Unity<br/>
-**Important API**: Wikitude AR<br/><br/>
+**Important API**: Wikitude AR<br/>
 
 ### 5. ButaRamen Wage Calculator for Android
 
@@ -62,20 +61,19 @@ User can calculate all employees' wages and tips and store all results and data 
 *Currently stopped due to the changing target platforms*<br/><br/><br/>
 
 ## Projects in Progress
-<br/>
 
 ### 1. Cat in the Zoo Game
 Simple mobie adventure game. Player should control a cat to get more food in the zoo<br/>
 
 **Target Platform**: Android or IOS<br/>
 **Development Tool**: Unity<br/>
-**Progress**: 10% done (Player controller, added animations for idle, run, walk, jump, and attack are completed)<br/><br/>
+**Progress**: 10% done (Player controller, added animations for idle, run, walk, jump, and attack are completed)<br/>
 
 ### 2. Buta Calculator Unity
 <br/>
 This is a simple calculator for calculating all employees' wages and tips<br/>
 Due to the request of a restraunts' owner, modified all codes for multiple branches in Atlantic Area<br/>
-Target platform is also changed to multiplatform such as OSX, IOS, and Android<br/><br/>
+Target platform is also changed to multiplatform such as OSX, IOS, and Android<br/>
 
 **Target Platform**: Windows, OSX, Android, and IOS<br/>
 **Development Tool**: Unity<br/>

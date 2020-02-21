@@ -19,7 +19,7 @@ The hardware will record the video, location of the incident and the time and da
 
 ### 2. Jelly Pal Android Application
 
-<p align="center"><img src="JellyPal/main_menu.png"></P>
+<p align="center"><img src="Image/JellyPal/main_menu.png"></P>
 
 Jelly Pal is an interactive friend who lives in your phone and helps manage your mental health 
 You can talk to your Jelly Pal and feed it, just like a real pet 

@@ -53,7 +53,7 @@ This is a simple AR android application that can generate a molecular 3D model f
 user can check the molecular 3D models from target images or inputs, and can view its animation.
 
 <p><video controls src="Image/DalAR/DemoApp.mp4" height="400"></video>
-    <a href="Image/DalAR/DemoApp.mp4">test</a></p>
+    <a href="Image/DalAR/DemoApp.mp4"><img src="Image/DalAR/DalChemi.png"></a></p>
 
 **Target**: Dalhousie University Chemistry Students<br/>
 **Target Platform**: Android SDK 26, Min SDK 23<br/>

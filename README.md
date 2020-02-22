@@ -52,8 +52,6 @@ A dungeon crawler RPG with spells, monsters, fast-paced combat, and treasure hun
 This is a simple AR android application that can generate a molecular 3D model from image.
 user can check the molecular 3D models from target images or inputs, and can view its animation.
 
-[![Play Demo Video](Image/DalAR/DalChemi.png)](Image/DalAR/DemoApp.mp4)
-
 **Target**: Dalhousie University Chemistry Students<br/>
 **Target Platform**: Android SDK 26, Min SDK 23<br/>
 **Development Tool**: Unity<br/>

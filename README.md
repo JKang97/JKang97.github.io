@@ -92,6 +92,5 @@ Target platform is also changed to multiplatform such as OSX, IOS, and Android<b
 
 **Target Platform**: Windows, OSX, Android, and IOS<br/>
 **Development Tool**: Unity<br/>
-**Important Asset**: REST API for Unity<br/>
 **Using Database**: Firebase<br/>
 **Progress**: 50% done (Communication between application and Firebase, all initial version of UI)<br/>

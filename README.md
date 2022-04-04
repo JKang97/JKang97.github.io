@@ -102,8 +102,8 @@ Target platform is also changed to multiplatform such as OSX, IOS, and Android<b
 This project is to develop a simple single page webapplication for an Illustrator<br/>
 
 **Development Tool**: Visual Studio Code<br/>
-**For Back-End development: NodeJS
-**For Front-End development: React
-**For Style: styled-components & antDesign
+**For Back-End development: NodeJS<br/>
+**For Front-End development: React<br/>
+**For Style: styled-components & antDesign<br/>
 **Using Database**: MongoDB<br/>
 **Progress**: 40% done (completed Login function and Upload Images)<br/>

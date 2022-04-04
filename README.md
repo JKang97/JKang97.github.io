@@ -93,4 +93,17 @@ Target platform is also changed to multiplatform such as OSX, IOS, and Android<b
 **Target Platform**: Windows, OSX, Android, and IOS<br/>
 **Development Tool**: Unity<br/>
 **Using Database**: Firebase<br/>
-**Progress**: 50% done (Communication between application and Firebase, all initial version of UI)<br/>
+**Progress**: 50% done (Communication between application and Firebase, all initial version of UI)<br/><br/>
+
+### 3. Webapplication for Illustrator
+
+![](Image/TolyneGallery/Website_IdeaDesign.png "Wage Calculator by Unity")
+
+This project is to develop a simple single page webapplication for an Illustrator<br/>
+
+**Development Tool**: Visual Studio Code<br/>
+**For Back-End development: NodeJS
+**For Front-End development: React
+**For Style: styled-components & antDesign
+**Using Database**: MongoDB<br/>
+**Progress**: 40% done (completed Login function and Upload Images)<br/>

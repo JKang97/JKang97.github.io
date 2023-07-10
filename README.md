@@ -111,7 +111,7 @@ This project is to develop a simple single page webapplication for an Illustrato
 
 ### 4. Scraper for Appliances Parts
 
-![](Image/TolyneGallery/WebApplication_Screenshot.png "Graphic Designer's Webpage")
+![](Image/Atlantic Appliance Wholesaler/scraper.png "Scraper")
 
 This project is to develop a scraper tool from several target sites<br/>
 
@@ -124,7 +124,8 @@ This project is to develop a scraper tool from several target sites<br/>
 
 ### 5. Warehouse Appliances and Parts Application
 
-![](Image/TolyneGallery/WebApplication_Screenshot.png "Appliances Warehouse App")
+![](Image/Atlantic Appliance Wholesaler/warehouse1.png "Appliances Warehouse App Image1")
+![](Image/Atlantic Appliance Wholesaler/warehouse2.png "Appliances Warehouse App Image2")
 
 This project is to develop a new system that supports all warehouse works<br/>
 

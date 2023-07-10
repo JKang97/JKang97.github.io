@@ -106,7 +106,7 @@ This project is to develop a simple single page webapplication for an Illustrato
 **For Front-End development: React<br/>
 **For Style: styled-components & antDesign<br/>
 **Using Database**: MongoDB<br/>
-**Progress**: 40% done (completed Login function and Upload Images)<br/>
+**Progress**: 70% done (completed Login function and Upload Images)<br/>
 **Git Repository: https://github.com/JKang97/TolyneGallery
 
 ### 4. Scraper for Appliances Parts

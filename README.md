@@ -133,5 +133,5 @@ This project is to develop a new system that supports all warehouse works<br/>
 **Development Tool**: Visual Studio Code<br/>
 **For Back-End development: Nestjs(Typescript)<br/>
 **For Front-End development: React(Javascript)<br/>
-**Database: MySQL 8.0
+**Database: MySQL 8.0<br/>
 **Progress**: 95% done!

@@ -97,7 +97,7 @@ Target platform is also changed to multiplatform such as OSX, IOS, and Android<b
 
 ### 3. Webapplication for Illustrator
 
-![](Image/TolyneGallery/Website_IdeaDesign.png "Wage Calculator by Unity")
+![](Image/TolyneGallery/WebApplication_Screenshot.png "Graphic Designer's Webpage")
 
 This project is to develop a simple single page webapplication for an Illustrator<br/>
 
@@ -108,3 +108,28 @@ This project is to develop a simple single page webapplication for an Illustrato
 **Using Database**: MongoDB<br/>
 **Progress**: 40% done (completed Login function and Upload Images)<br/>
 **Git Repository: https://github.com/JKang97/TolyneGallery
+
+### 4. Scraper for Appliances Parts
+
+![](Image/TolyneGallery/WebApplication_Screenshot.png "Graphic Designer's Webpage")
+
+This project is to develop a scraper tool from several target sites<br/>
+
+**Development Tool**: Visual Studio Code<br/>
+**For Back-End development: NodeJS<br/>
+**For Front-End development: React<br/>
+**For Style: styled-components & antDesign<br/>
+**Primary Package: Puppeteer
+**Progress**: 100% done!
+
+### 5. Warehouse Appliances and Parts Application
+
+![](Image/TolyneGallery/WebApplication_Screenshot.png "Appliances Warehouse App")
+
+This project is to develop a new system that supports all warehouse works<br/>
+
+**Development Tool**: Visual Studio Code<br/>
+**For Back-End development: Nestjs(Typescript)<br/>
+**For Front-End development: React(Javascript)<br/>
+**Database: MySQL 8.0
+**Progress**: 95% done!

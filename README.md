@@ -76,12 +76,12 @@ User can calculate all employees' wages and tips and store all results and data 
 
 This project is to develop a scraper tool from several target sites<br/>
 
-**Development Tool**: Visual Studio Code<br/>
-**For Back-End development: NodeJS<br/>
-**For Front-End development: React<br/>
-**For Style: styled-components & antDesign<br/>
-**Primary Package: Puppeteer<br/>
-**Progress**: 100% done!<br/>
+Development Tool**: Visual Studio Code<br/>
+For Back-End development: NodeJS<br/>
+For Front-End development: React<br/>
+For Style: styled-components & antDesign<br/>
+Primary Package: Puppeteer<br/>
+Progress**: 100% done!<br/>
 <br/><br/><br/>
 
 ## Projects in Progress
@@ -115,13 +115,13 @@ Target platform is also changed to multiplatform such as OSX, IOS, and Android<b
 
 This project is to develop a simple single page webapplication for an Illustrator<br/>
 
-**Development Tool**: Visual Studio Code<br/>
-**For Back-End development: NodeJS<br/>
-**For Front-End development: React<br/>
-**For Style: styled-components & antDesign<br/>
-**Using Database**: MongoDB<br/>
-**Progress**: 70% done (completed Login function and Upload Images)<br/>
-**Git Repository: https://github.com/JKang97/TolyneGallery<br/>
+Development Tool**: Visual Studio Code<br/>
+For Back-End development: NodeJS<br/>
+For Front-End development: React<br/>
+For Style: styled-components & antDesign<br/>
+Using Database**: MongoDB<br/>
+Progress**: 70% done (completed Login function and Upload Images)<br/>
+Git Repository: https://github.com/JKang97/TolyneGallery<br/>
 
 ### 4. Warehouse Appliances and Parts Application
 
@@ -130,8 +130,8 @@ This project is to develop a simple single page webapplication for an Illustrato
 
 This project is to develop a new system that supports all warehouse works<br/>
 
-**Development Tool**: Visual Studio Code<br/>
-**For Back-End development: Nestjs(Typescript)<br/>
-**For Front-End development: React(Javascript)<br/>
-**Database: MySQL 8.0<br/>
-**Progress**: 95% done!<br/>
+Development Tool**: Visual Studio Code<br/>
+For Back-End development: Nestjs(Typescript)<br/>
+For Front-End development: React(Javascript)<br/>
+Database: MySQL 8.0<br/>
+Progress**: 95% done!<br/>

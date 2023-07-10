@@ -68,7 +68,21 @@ User can calculate all employees' wages and tips and store all results and data 
 **Development Tool**: Android Studio<br/>
 **Progress**: 70% done (Initial version of UIs and activities, Calculator functions, Communication between app and Firebase has been completed)<br/>
 
-*Currently stopped due to the changing target platforms*<br/><br/><br/><br/> 
+*Currently stopped due to the changing target platforms*<br/><br/>
+
+### 6. Scraper for Appliances Parts
+
+![](Image/AtlanticApplianceWholesaler/scraper.png "Scraper")
+
+This project is to develop a scraper tool from several target sites<br/>
+
+**Development Tool**: Visual Studio Code<br/>
+**For Back-End development: NodeJS<br/>
+**For Front-End development: React<br/>
+**For Style: styled-components & antDesign<br/>
+**Primary Package: Puppeteer
+**Progress**: 100% done!
+<br/><br/> 
 
 ## Projects in Progress
 
@@ -109,20 +123,7 @@ This project is to develop a simple single page webapplication for an Illustrato
 **Progress**: 70% done (completed Login function and Upload Images)<br/>
 **Git Repository: https://github.com/JKang97/TolyneGallery
 
-### 4. Scraper for Appliances Parts
-
-![](Image/AtlanticApplianceWholesaler/scraper.png "Scraper")
-
-This project is to develop a scraper tool from several target sites<br/>
-
-**Development Tool**: Visual Studio Code<br/>
-**For Back-End development: NodeJS<br/>
-**For Front-End development: React<br/>
-**For Style: styled-components & antDesign<br/>
-**Primary Package: Puppeteer
-**Progress**: 100% done!
-
-### 5. Warehouse Appliances and Parts Application
+### 4. Warehouse Appliances and Parts Application
 
 ![](Image/AtlanticApplianceWholesaler/warehouse1.png "Appliances Warehouse App Image1")
 ![](Image/AtlanticApplianceWholesaler/warehouse2.png "Appliances Warehouse App Image2")

@@ -80,8 +80,8 @@ This project is to develop a scraper tool from several target sites<br/>
 **For Back-End development: NodeJS<br/>
 **For Front-End development: React<br/>
 **For Style: styled-components & antDesign<br/>
-**Primary Package: Puppeteer
-**Progress**: 100% done!
+**Primary Package: Puppeteer<br/>
+**Progress**: 100% done!<br/>
 <br/><br/><br/>
 
 ## Projects in Progress
@@ -121,7 +121,7 @@ This project is to develop a simple single page webapplication for an Illustrato
 **For Style: styled-components & antDesign<br/>
 **Using Database**: MongoDB<br/>
 **Progress**: 70% done (completed Login function and Upload Images)<br/>
-**Git Repository: https://github.com/JKang97/TolyneGallery
+**Git Repository: https://github.com/JKang97/TolyneGallery<br/>
 
 ### 4. Warehouse Appliances and Parts Application
 
@@ -134,4 +134,4 @@ This project is to develop a new system that supports all warehouse works<br/>
 **For Back-End development: Nestjs(Typescript)<br/>
 **For Front-End development: React(Javascript)<br/>
 **Database: MySQL 8.0<br/>
-**Progress**: 95% done!
+**Progress**: 95% done!<br/>

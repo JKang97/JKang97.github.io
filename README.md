@@ -127,6 +127,7 @@ Development Tool: Visual Studio Code<br/>
 
 ![](Image/AtlanticApplianceWholesaler/warehouse1.png "Appliances Warehouse App Image1")
 ![](Image/AtlanticApplianceWholesaler/warehouse2.png "Appliances Warehouse App Image2")
+![](Image/AtlanticApplianceWholesaler/warehouse3.png "Appliances Warehouse App Image3")
 
 This project is to develop a new system that supports all warehouse works<br/>
 
@@ -134,4 +135,4 @@ This project is to develop a new system that supports all warehouse works<br/>
 **For Back-End development**: Nestjs(Typescript)<br/>
 **For Front-End development**: React(Javascript)<br/>
 **Database**: MySQL 8.0<br/>
-**Progress**: 95% done!<br/>
+**Progress**: 98% done!<br/>
